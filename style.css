@@ -1,0 +1,19 @@
+.heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    color: blue;
+    font-weight: bold;
+}
+
+.recipe {
+    font-style: italic;
+}
+
+.sub-heading {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.image {
+    border: 5px solid black;
+}
