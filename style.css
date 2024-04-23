@@ -3,10 +3,17 @@
     font-size: 32px;
     color: blue;
     font-weight: bold;
+    text-align: center;
 }
 
 .recipe {
     font-style: italic;
+    width: 200px;
+    display: block;
+    text-align: center;
+    border: 2px solid black;
+    padding: 4px;
+    margin: 4px auto;
 }
 
 .sub-heading {
@@ -16,4 +23,13 @@
 
 .image {
     border: 5px solid black;
+}
+
+div {
+    length: auto;
+    width: 300px;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px auto 5px 0px;
+    background-color: bisque;
 }
